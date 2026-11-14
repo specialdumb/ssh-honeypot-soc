@@ -1,0 +1,10 @@
+.env
+server.key
+*.db
+*.sqlite3
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
